@@ -5,7 +5,8 @@
       - AI \
       - Basic Electronics \
       - Cooking videos \
-      - Restoration Video
+      - Restoration Videos \
+      - Languages (French,Japanese,Italian)
     
 - 🌱 Currently Learning: \
       - Everything
