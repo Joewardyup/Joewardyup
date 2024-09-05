@@ -6,7 +6,7 @@
       - Basic Electronics \
       - Cooking videos \
       - Restoration Videos \
-      - Languages (French,Japanese,Italian)
+      - Languages (English,Korean)
     
 - 🌱 Currently Learning: \
       - Everything
@@ -15,12 +15,12 @@
       - Everything
 
 - 🎮 Hobbies: \
-      - Video games (VALORANT, ROBLOX, and Aimlabs) \
+      - Video games (VALORANT, ROBLOX) \
       - Anime -- Fav: Akame Ga Kill \
       - Manga -- Fav: Chainsaw Man 
 
 - 📫 My links/profiles: \
-      - Email: JosephSwartz1199@hotmail.com \
+      - Email: joeyswartz1241@gmail.com \
       - Discord: Joeward #2723 
 <!---
 Joewardyup/Joewardyup is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
